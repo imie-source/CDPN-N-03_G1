@@ -1,4 +1,4 @@
-package FilRouge;
+package Main;
 
 public class Main {
 
