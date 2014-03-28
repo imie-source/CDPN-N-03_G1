@@ -2,7 +2,7 @@ package notification;
 
 import java.util.Date;
 
-public class Notification {
+public abstract class Notification {
 	
 	private int id;
 	private Date resolvedAt;
